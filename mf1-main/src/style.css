@@ -1,0 +1,12 @@
+.mf1 {
+    border: 2px solid #7CB9E8;
+    height: 50%;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.note {
+    display: flex;
+    flex-direction: row;
+}

@@ -1,0 +1,32 @@
+.shell {
+    border: 2px solid #1CAC78;
+    height: 50vw;
+    width: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.body {
+    display: flex;
+    flex-direction: horizontal;
+    width: auto;
+}
+
+.nav-bar {
+    display: flex;
+    flex-direction: column;
+    width: 20vw;
+    height: 100vh;
+    background-color: #5a5a5a;
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+  }
